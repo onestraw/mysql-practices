@@ -108,7 +108,7 @@ MariaDB [(none)]> show variables like 'innodb_data%';
 +-----------------------+------------------------+
 
 #ib_logfile0/1
-redo log https://dev.mysql.com/doc/refman/5.7/en/innodb-redo-log.html
+[redo log](https://dev.mysql.com/doc/refman/5.7/en/innodb-redo-log.html) 用以保证事务的持久性
 
 
 #////////////////////////////////////////////////////////////////////////////////
