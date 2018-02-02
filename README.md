@@ -10,6 +10,7 @@
 
 * [数据库基础](fundamentals.md)
 * [通晓索引](index.md)
+* [高可用](high_availability.md)
 
 
 ### 实践篇
@@ -22,4 +23,4 @@
 
 ## Todo
 
-* HA 高可用
+* 深入Galera Cluster Replication
