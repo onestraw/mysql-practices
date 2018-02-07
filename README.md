@@ -11,6 +11,8 @@
 * [数据库基础](fundamentals.md)
 * [通晓索引](index.md)
 * [高可用](high_availability.md)
+* [读写分离](read_write_splitting.md)
+* [MySQL Proxy](mysql_proxy.md)
 
 
 ### 实践篇
